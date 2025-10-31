@@ -1,4 +1,4 @@
-<img width="658" height="455" alt="image" src="https://github.com/user-attachments/assets/e6d87bd4-4233-48ff-b3ba-8c4c00a1c671" /># Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 10 Learning – Use Supervised Learning  
 ### DATE: 31.10.2025                                                                            
 ### REGISTER NUMBER : 212222060111
 ### AIM: 
